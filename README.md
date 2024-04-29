@@ -1,6 +1,6 @@
 # Paulo Luan
 
-<p>Fortaleza-CE.</p>
+<p>Fortaleza-CE 🌞</p>
 <p> Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.</p>
 
 ## Social
