@@ -1,7 +1,8 @@
 # Paulo Luan
 
-<p>Fortaleza-CE 🌞</p>
-<p> Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.</p>
+**Fortaleza-CE 🌞**
+
+**Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.**
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-luan-206764263/)
