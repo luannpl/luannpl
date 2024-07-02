@@ -21,7 +21,7 @@
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luannpl&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![luannpl's Stats](https://github-readme-stats.vercel.app/api?username=luannpl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## GitHub Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luannpl)](https://git.io/streak-stats)
