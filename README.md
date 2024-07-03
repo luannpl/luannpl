@@ -24,4 +24,4 @@
 ![luannpl's Stats](https://github-readme-stats.vercel.app/api?username=luannpl&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luannpl&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luannpl&theme=tokyonight)](https://git.io/streak-stats)
