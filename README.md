@@ -1,9 +1,10 @@
-# Paulo Luan
+## 👋 Olá, eu sou o Paulo Luan!
 
-**Fortaleza-CE 🌞**
+🌟 **Idade:** 23 anos  
+🎓 **Curso:** Análise e Desenvolvimento de Sistemas (3º semestre) na Unifor  
+💻 **Estágio:** Desenvolvedor de Software  
 
-**Atualmente cursando Análise e Desenvolvimento de Sistemas - 3°Semestre - Universidade de Fortaleza.**
-
+Sou apaixonado por tecnologia e pelo processo de criação de soluções que facilitam a vida das pessoas. Atualmente, estou em busca de desafios que me permitam aprimorar minhas habilidades em desenvolvimento de software e contribuir para projetos inovadores.
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloluanpl/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaanpl/)
