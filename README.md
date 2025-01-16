@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Paulo Luan!
 
 🌟 **Idade:** 23 anos  
-🎓 **Curso:** Análise e Desenvolvimento de Sistemas (3º semestre) na Unifor  
+🎓 **Curso:** Análise e Desenvolvimento de Sistemas (4º semestre) na Unifor  
 💻 **Estágio:** Desenvolvedor de Software  
 
 Sou apaixonado por tecnologia e pelo processo de criação de soluções que facilitam a vida das pessoas. Atualmente, estou em busca de desafios que me permitam aprimorar minhas habilidades em desenvolvimento de software e contribuir para projetos inovadores e acessíveis.
