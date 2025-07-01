@@ -4,7 +4,7 @@
 🎓 **Curso:** Análise e Desenvolvimento de Sistemas (4º semestre) na Unifor  
 💻 **Estágio:** Desenvolvedor  
 
-Sou apaixonado por tecnologia e pelo processo de criação de soluções que facilitam a vida das pessoas. Atualmente, estou em busca de desafios que me permitam aprimorar minhas habilidades em desenvolvimento de software e contribuir para projetos inovadores e acessíveis.
+Desenvolvedor de Software cursando o último semestre de Análise e Desenvolvimento de Sistemas. Possuo experiência no desenvolvimento de soluções para automação de processos contábeis na Assertivus Contábil. Atualmente, integro a equipe da Gerência de TI do Sistema FIEC como estagiário de desenvolvimento, contribuindo com projetos utilizando tecnologias como React, Next.js, PHP, Laravel, Node.js, SQL e Docker. Também atuei recentemente como monitor no projeto Geração Tech, auxiliando alunos em formação no curso Full Stack Web.
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloluanpl/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaanpl/)
