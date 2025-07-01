@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Paulo Luan!
 
 🌟 **Idade:** 23 anos  
-🎓 **Curso:** Análise e Desenvolvimento de Sistemas (4º semestre) na Unifor  
+🎓 **Curso:** Análise e Desenvolvimento de Sistemas (5º semestre) na Unifor  
 💻 **Estágio:** Desenvolvedor  
 
 Desenvolvedor de Software cursando o último semestre de Análise e Desenvolvimento de Sistemas. Possuo experiência no desenvolvimento de soluções para automação de processos contábeis na Assertivus Contábil. Atualmente, integro a equipe da Gerência de TI do Sistema FIEC como estagiário de desenvolvimento, contribuindo com projetos utilizando tecnologias como React, Next.js, PHP, Laravel, Node.js, SQL e Docker. Também atuei recentemente como monitor no projeto Geração Tech, auxiliando alunos em formação no curso Full Stack Web.
