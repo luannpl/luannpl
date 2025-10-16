@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou o Paulo Luan!
 
-🌟 **Idade:** 23 anos  
+🌟 **Idade:** 24 anos  
 🎓 **Curso:** Análise e Desenvolvimento de Sistemas (5º semestre) na Unifor  
 💻 **Estágio:** Desenvolvedor  
 
-Desenvolvedor de Software cursando o último semestre de Análise e Desenvolvimento de Sistemas. Possuo experiência no desenvolvimento de soluções para automação de processos contábeis na Assertivus Contábil. Atualmente, integro a equipe da Gerência de TI do Sistema FIEC como estagiário de desenvolvimento, contribuindo com projetos utilizando tecnologias como React, Next.js, PHP, Laravel, Node.js, SQL e Docker. Também atuei recentemente como monitor no projeto Geração Tech, auxiliando alunos em formação no curso Full Stack Web.
+Desenvolvedor Full Stack, cursando o último semestre de Análise e Desenvolvimento de Sistemas. Possuo experiência no desenvolvimento de soluções para automação de processos contábeis na Assertivus Contábil. Atualmente, integro a equipe da Gerência de TI do Sistema FIEC como estagiário de desenvolvimento, contribuindo com projetos utilizando tecnologias como React, Next.js, PHP, Laravel, Node.js, SQL e Docker. Também atuei recentemente como monitor no projeto Geração Tech, auxiliando alunos em formação no curso Full Stack Web.
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloluanpl/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luaanpl/)
